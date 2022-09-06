@@ -41,7 +41,6 @@ class Program
 				foreach (var keyValuePair in result)
 				{
 					fnew.WriteLine("Слово {0} встречается {1} раз", keyValuePair.Key, keyValuePair.Value);
-
 				}
 			}
 		}
